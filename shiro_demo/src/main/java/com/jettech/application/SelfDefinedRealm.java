@@ -1,9 +1,7 @@
-package com.jettech.realm;
+package com.jettech.application;
 
-import jdk.nashorn.internal.parser.Token;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AccountException;
-import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.IncorrectCredentialsException;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.mgt.DefaultSecurityManager;
