@@ -37,4 +37,15 @@ public class CustomRealm extends AuthorizingRealm {
 
         return null;
     }
+
+    /**
+     * @return void
+     * @description
+     * @author dukou_caiqin@163.com
+     * @date 2020/11/7
+     * @date [args]
+     */
+    public static void main(String[] args) {
+
+    }
 }
