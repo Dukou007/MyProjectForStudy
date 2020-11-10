@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.jettech.AppTest" time="0.022" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="C:\Users\zhouj\Documents\MyProject\MyProjectForStudy\shiro_demo\target\test-classes;C:\Users\zhouj\Documents\MyProject\MyProjectForStudy\shiro_demo\target\classes;D:\ApacheTools\repository\junit\junit\4.11\junit-4.11.jar;D:\ApacheTools\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-core\1.5.3\shiro-core-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-lang\1.5.3\shiro-lang-1.5.3.jar;D:\ApacheTools\repository\org\slf4j\slf4j-api\1.7.26\slf4j-api-1.7.26.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-cache\1.5.3\shiro-cache-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-crypto-hash\1.5.3\shiro-crypto-hash-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-crypto-core\1.5.3\shiro-crypto-core-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-crypto-cipher\1.5.3\shiro-crypto-cipher-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-config-core\1.5.3\shiro-config-core-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-config-ogdl\1.5.3\shiro-config-ogdl-1.5.3.jar;D:\ApacheTools\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;D:\ApacheTools\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-event\1.5.3\shiro-event-1.5.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\zhouj\AppData\Local\Temp\surefire4521387970814407807\surefirebooter8454124168390561283.jar C:\Users\zhouj\AppData\Local\Temp\surefire4521387970814407807 2020-11-10T05-22-52_723-jvmRun1 surefire1371392872523708098tmp surefire_01612498147574042990tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\zhouj\Documents\MyProject\MyProjectForStudy\shiro_demo\target\test-classes;C:\Users\zhouj\Documents\MyProject\MyProjectForStudy\shiro_demo\target\classes;D:\ApacheTools\repository\junit\junit\4.11\junit-4.11.jar;D:\ApacheTools\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-core\1.5.3\shiro-core-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-lang\1.5.3\shiro-lang-1.5.3.jar;D:\ApacheTools\repository\org\slf4j\slf4j-api\1.7.26\slf4j-api-1.7.26.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-cache\1.5.3\shiro-cache-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-crypto-hash\1.5.3\shiro-crypto-hash-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-crypto-core\1.5.3\shiro-crypto-core-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-crypto-cipher\1.5.3\shiro-crypto-cipher-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-config-core\1.5.3\shiro-config-core-1.5.3.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-config-ogdl\1.5.3\shiro-config-ogdl-1.5.3.jar;D:\ApacheTools\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;D:\ApacheTools\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;D:\ApacheTools\repository\org\apache\shiro\shiro-event\1.5.3\shiro-event-1.5.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\zhouj"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_211\jre"/>
+    <property name="basedir" value="C:\Users\zhouj\Documents\MyProject\MyProjectForStudy\shiro_demo"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\zhouj\AppData\Local\Temp\surefire4521387970814407807\surefirebooter8454124168390561283.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_211-b12"/>
+    <property name="user.name" value="zhouj"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\ApacheTools\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\zhouj\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_211"/>
+    <property name="user.dir" value="C:\Users\zhouj\Documents\MyProject\MyProjectForStudy\shiro_demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="idea.version2019.3.5" value="true"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\zhouj\OneDrive\MySoftware\exe\Windows OS\CCleaner;C:\Users\zhouj\OneDrive\MySoftware\exe\Windows OS\TypeEasy;C:\Users\zhouj\OneDrive\MySoftware\exe\Windows OS\DuktoR6\DuktoR6;C:\Users\zhouj\OneDrive\MySoftware\Google\Google;C:\Users\zhouj\OneDrive\MySoftware\exe\Windows OS;C:\Users\zhouj\OneDrive\MySoftware\exe\Windows OS\DiffMerge;C:\Users\zhouj\AppData\Local\SourceTree;C:\Users\zhouj\AppData\Local\Programs\Microsoft VS Code;C:\Users\zhouj\AppData\Local\Postman;C:\Program Files\Python37\Scripts\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Python37\;C:\Python27\;C:\Python27\Scripts;C:\Users\zhouj\OneDrive\MySoftware\Apks\Adb;D:\ApacheTools\apache-tomcat-8.5.34\bin;%FFMPEG_HOME%;C:\Program Files (x86)\Internet Download Manager;C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.5\bin;D:\ApacheTools\apache-maven-3.5.4\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files\nodejs\node_global\node_modules;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Java\jdk1.8.0_211\jre\bin;C:\Program Files\DAUM\PotPlayer;%SHIMO_HOME%;C:\Users\zhouj\OneDrive\MySoftware\Google\Lofter\ShadowsocksR-4.7.0-win;C:\Program Files\PuTTY\;C:\Program Files\sts-4.0.1.RELEASE;C:\Program Files\Eclipse;C:\Program Files\Typora\bin;C:\Program Files\SQLyog;C:\Program Files\PremiumSoft\Navicat Premium 12;C:\Program Files\nodejs\node_global\;C:\Program Files\Pandoc\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Axure\Axure RP 8;C:\Program Files (x86)\Sybase\PowerDesigner 15;C:\Program Files (x86)\StarUML;C:\Program Files (x86)\Tencent\WeChat;C:\Program Files (x86)\DingDing\main\current;C:\Program Files (x86)\NetSarang\Xmanager Enterprise 5;C:\Program Files\Microsoft VS Code;C:\ProgramData\chocolatey\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\nodejs\;C:\Users\zhouj\OneDrive\MySoftware\Apks\Adb;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\ApacheTools\apache-jmeter-5.2.1\bin;C:\Users\zhouj\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\zhouj\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.5\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.211-b12"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\ApacheTools\repository"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.jettech.AppTest" time="0.001"/>
+</testsuite>
