@@ -5,7 +5,7 @@ import com.jettech.entity.Person;
 /**
  * @author : dukou_caiqin@163.com
  * @date: 2020/11/11  6:50
- * @description:
+ * @description: 测试专用
  */
 public class Test001 {
     public static void main(String[] args) {
