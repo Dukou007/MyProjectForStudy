@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * @author : dukou_caiqin@163.com
  * @date: 2020/11/9  1:07
- * @description:
+ * @description: 人类 我了个去
  */
 public class User implements Serializable {
     private String username;
