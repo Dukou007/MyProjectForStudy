@@ -3,7 +3,7 @@ package com.jettech.entity;
 /**
  * @author : dukou_caiqin@163.com
  * @date: 2020/11/11  6:48
- * @description:
+ * @description: 人类,测试专用
  */
 public class Person {
     private String username;
