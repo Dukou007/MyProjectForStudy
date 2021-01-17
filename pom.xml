@@ -11,6 +11,11 @@
     <modules>
         <module>shiro_demo</module>
     </modules>
-
+    <dependencies>
+        <!--<dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
+        </dependency>-->
+    </dependencies>
 
 </project>
